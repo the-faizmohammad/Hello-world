@@ -86,10 +86,10 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder:https://github.com/the-faizmohammad/Hello-world
+Clone this repository to your desired folder:
 
 ```
-git clone yourlink repo 
+git clone yourlink repo https://github.com/the-faizmohammad/Hello-world
 
 cd your folder name
 ```
