@@ -1,91 +1,167 @@
-Hello World Project
+<a name="readme-top"></a>
 
-In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them! You will also get your first code review. This is also a process that will be used in all Microverse projects.
+<div align="center">
 
-🛠 Built With
+  <br/>
 
-Tech Stack
-The project is built using the following technologies:
+  <h3><b>Hello Microverse</b></h3>
 
-HTML
-CSS
-Git
+</div>
 
-Key Features
+# 📗 Table of Contents
 
-The key features of this project are as follows:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-Set up a "Hello world" repository
-Practice using Git and GitHub flow
-Set up a linter for HTML and CSS
-Use a .gitignore file to ignore irrelevant files
-Add a descriptive README file to the project
-🚀 Live Demo
-Check out the live demo of the project here.
+# Hello Microverse <a name="about-project"></a>
 
-💻 Getting Started
-To get a local copy up and running, follow these steps:
+**Hello Microverse** is a HTML project that display a "Hello Microverse" text.
 
-Prerequisites
-Make sure you have the following prerequisites installed:
+## 🛠 Built With <a name="built-with"></a>
 
-Git
-Node.js (for running linter)
-Setup
-Create a new GitHub repository for your project.
-Clone the repository to your local machine:
-bash
-Copy code
-git clone (https://github.com/the-faizmohammad/Hello-world)
-Switch to the project directory:
-bash
-Copy code
-cd your-repo
-Install
-No additional dependencies need to be installed for this project.
+### Tech Stack <a name="tech-stack"></a>
 
-Usage
-Open the project files in your preferred code editor and make the necessary changes or additions.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
 
-Run tests
-No tests are required for this project.
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
-Deployment
-This project does not require deployment. It is a simple setup and configuration exercise.
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
-👥 Authors
-This project was developed by:
+### Key Features <a name="key-features"></a>
 
-👤 Faiz Mohammad
+- **Display colorfull text**
 
-GitHub: (https://github.com/the-faizmohammad)
-Twitter: (https://twitter.com/FaizMoh58742600)
-LinkedIn: https://www.linkedin.com/in/faiz-mohammad-967354142/
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🔭 Future Features
-There are no future features planned for this project, as it serves as a starting point for mastering the development tools and practices.
+## 🚀 Live Demo <a name="live-demo"></a>
 
-🤝 Contributing
-Contributions, issues, and feature requests are not applicable for this project.
+- [Demo link is coming soon](#)
 
-⭐️ Show your support
-If you find this project helpful or interesting, please give it a star on GitHub.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🙏 Acknowledgments
-We would like to thank the Microverse community for providing guidance and resources for learning and practicing software development.
+## 💻 Getting Started <a name="getting-started"></a>
 
-❓ FAQ (OPTIONAL)
-Here are some frequently asked questions:
+To get a local copy up and running, follow these steps.
 
-Q: Do I need to write any complex code for this project?
+### Prerequisites
 
-A: No, this project focuses on setting up a "Hello world" repository and mastering the tools and best practices.
+In order to run this project you need:
 
-Q: Is there a specific technology stack required for this project?
+- You need to have NodeJS installed
+- A Web Browser (Google Chrome, Firefox, etc)
+- A Code Editor (Notepad++, VSCode, etc)
 
-A: The project is built using HTML, CSS, and Git.
+### Setup
 
-📝 License
-This project is licensed under the MIT License.
+Clone this repository to your desired folder:https://github.com/the-faizmohammad/Hello-world
 
-NOTE: We recommend using the MIT license, but you can also choose any other license if you wish.
+```
+git clone yourlink repo 
+
+cd your folder name
+```
+
+### Install
+
+Install this project with:
+
+```
+npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+Double-click on the index file (index.html)
+
+### Run tests
+
+To run tests, run the following command:
+
+N/A
+
+### Deployment
+
+You can deploy this project using:
+
+Deploy this project on any websever
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Faiz Mohammad **
+
+- GitHub: [@githubhandle](https://github.com/the-faizmohammad)
+- Twitter: [@twitterhandle](https://twitter.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/faiz-mohammad-967354142/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add a hello animated illustration**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give me a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank every who continues supporting me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
